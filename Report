@@ -1,0 +1,64 @@
+Dashboard Overview:
+
+
+This is an interactive Power BI dashboard for AdventureWorks, a fictional company. It provides insights into key business metrics such as revenue, profit, orders, return rates, and geography, all of which can be explored dynamically using the year slicer (2020, 2021, and 2022).
+Key Sections in the Dashboard:
+
+    > Top Metrics (Revenue, Profit, Orders, Return Rate):
+
+        These are the main KPIs displayed at the top, showing key metrics like Revenue, Profit, Total Orders, and Return Rate.
+
+        The year slicer (2020, 2021, 2022) allows you to navigate through different time periods and update the displayed data accordingly.
+
+            For example, selecting 2020 will show data relevant to 2020, such as $24.91M in revenue, while selecting 2021 or 2022 will update these values based on the respective year.
+
+    > Weekly Revenue (Line Chart):
+
+        This line chart shows the trend of weekly revenue from 2020 to 2022, updating dynamically based on the selected year. The chart highlights revenue fluctuations, with an increasing trend visible over the years.
+
+    > Orders by Category (Bar Chart):
+
+        This horizontal bar chart illustrates the number of orders for different product categories such as Accessories, Bikes, and Clothing. The data will adjust according to the selected year, allowing users to track which categories are performing best for the given period.
+
+    > Total Orders by Income Level (Donut Chart):
+
+        The donut chart visualizes the distribution of total orders based on customer income levels (Average, Standard, High, Very High). It allows users to explore how income level affects order distribution for the selected year.
+
+    > Top-Selling Products (Table):
+
+        A table displays the top-selling products, showing details like Product Name, Total Orders, Revenue, Cost, and Profit. This table will update according to the year selected, so users can see the best-selling products for that specific time period.
+
+    > Orders Received per Country (Bar Chart):
+
+        A bar chart visualizes the number of orders received per country (e.g., United States, Australia, Canada, etc.). Like the other visuals, the data will adjust based on the selected year, showing the geographic distribution of orders.
+
+Features of the Dashboard:
+
+    > Interactive Year Slicer:
+
+        The year slicer allows users to easily navigate between 2020, 2021, and 2022, enabling them to compare business performance across different time periods.
+
+    > Real-Time Data Exploration:
+
+        As users interact with the slicer or other elements of the dashboard, all the data visualizations (charts, tables, and KPIs) update dynamically to reflect the selected time period. This makes it easy to see how metrics evolve over time.
+
+    > Data Insights and Analytics:
+
+        The dashboard provides valuable insights, such as identifying the best-performing product categories, geographic regions, and trends across different years.
+
+Technologies and Tools Used:
+
+    Power BI: Used for creating the interactive and dynamic dashboard.
+
+    Data Sources: consists of sales, product, and customer data sourced from Excel CSV files, which are integrated into Power BI for visualization and analysis.
+
+Potential Use Cases for This Dashboard:
+
+    > Performance Monitoring:
+      Stakeholders can use this dashboard to track key business metrics over time, such as revenue, profit, and order volume, across different years.
+
+    > Sales and Marketing Strategy:
+      The sales and marketing teams can leverage this dashboard to understand how product categories and regions are performing and adjust their strategies accordingly.
+
+    > Geographical and Income-Based Analysis:
+      The ability to filter data by country and income level provides the company with insights into customer behavior and order patterns across different demographics.
