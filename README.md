@@ -8,7 +8,7 @@ Created Using: Power BI
 
 Project Overview:
 
-This Power BI project leverages data from multiple sources to provide insightful and dynamic visualizations. The project integrates 10 different Excel and CSV files to create an interactive dashboard that offers comprehensive analysis on sales performance, customer insights, financial data.
+This Power BI project leverages data from multiple sources to provide insightful and dynamic visualizations. The project integrates 10 different Excel CSV files to create an interactive dashboard that offers comprehensive analysis on sales performance, customer insights, financial data.
 The datasets cover various aspects such as product sales, regional performance, customer demographics.
 
 Key Features:
